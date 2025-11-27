@@ -1,0 +1,6 @@
+[
+    { "id": 1, "titulo": "Exposición de arte interactivo", "categoria": "arte" },
+    { "id": 2, "titulo": "Festival de diseño digital", "categoria": "diseño" },
+    { "id": 3, "titulo": "Workshop de accesibilidad web", "categoria": "tecnología" },
+    { "id": 4, "titulo": "Charla sobre inteligencia artificial", "categoria": "tecnología" }
+]

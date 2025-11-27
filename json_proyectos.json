@@ -1,0 +1,46 @@
+[{
+        "id": 1,
+        "autor": "Nombre alumno1",
+        "titulo": "Práctica de WD",
+        "srcimg": "https://picsum.photos/1024/480?random=1/",
+        "alt": "Texto alternativo de la imágen1",
+        "texto": "Instrucciones: Aquí has de poner un texto descriptivo del proyecto. La imágen de cabecera debe tener una resolución de (1024/480 px)",
+        "url": "https://afrikiudl.github.io/practicawd/"
+    },
+    {
+        "id": 2,
+        "autor": "Nombre alumno2",
+        "titulo": "Youtube",
+        "srcimg": "https://picsum.photos/1024/480?random=2/",
+        "alt": "Descripción de la imágen2",
+        "texto": "Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto. Aquí has de poner un texto descriptivo del proyecto",
+        "url": "https://www.youtube.com/"
+    },
+    {
+        "id": 3,
+        "autor": "Nombre alumno3",
+        "titulo": "Wikipedia",
+        "srcimg": "https://picsum.photos/1024/480?random=3/",
+        "alt": "Descripción de la imágen3",
+        "texto": "Aquí has de poner un texto descriptivo del proyecto",
+        "url": "http://www.wikipedia.org"
+    },
+    {
+        "id": 4,
+        "autor": "Nombre alumno4",
+        "titulo": "Amazon",
+        "srcimg": "https://picsum.photos/1024/480?random=4/",
+        "alt": "Descripción de la imágen4",
+        "texto": "Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto. ",
+        "url": "http://www.amazon.com"
+    },
+    {
+        "id": 5,
+        "autor": "Nombre alumno5",
+        "titulo": "Título del proyecto5",
+        "srcimg": "https://picsum.photos/1024/480?random=5/",
+        "alt": "Descripción de la imágen",
+        "texto": "Aquí has de poner un texto descriptivo del proyecto",
+        "url": "http://www.instagram.com"
+    }
+]
